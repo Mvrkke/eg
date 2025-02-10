@@ -223,7 +223,7 @@ export function Section() {
                     <Card className="bg-card rounded-[7px] flex flex-col h-full">
                       <Image
                         alt="Game 1"
-                        src="/images/citizen-sleeper-2-starward-vector-bc7xg.jpg?resize=1&w=360&h=480&quality=medium"
+                        src="https://cdn1.epicgames.com/spt-assets/e83b81f79e604f8ba21cca597f1dc850/citizen-sleeper-2-starward-vector-bc7xg.jpg?resize=1&w=360&h=480&quality=medium"
                         width={200}
                         height={300}
                         className="w-full h-36 sm:h-48 rounded-[7px] object-cover"
@@ -246,7 +246,7 @@ export function Section() {
                     <Card className="bg-card rounded-[7px] flex flex-col h-full">
                       <Image
                         alt="Game 2"
-                        src="/images/into-the-emberlands-1q2fq.png?resize=1&w=360&h=480&quality=medium"
+                        src="https://cdn1.epicgames.com/spt-assets/cc08a8398d6649de81d06db1b9d20e97/into-the-emberlands-1q2fq.png?resize=1&w=360&h=480&quality=medium"
                         width={200}
                         height={300}
                         className="w-full h-36 sm:h-48 rounded-[7px] object-cover"
@@ -288,7 +288,7 @@ export function Section() {
                     <Card className="bg-card rounded-[7px] flex flex-col h-full">
                       <Image
                         alt="Game 4"
-                        src="/images/tails-of-iron-2-whiskers-of-winter-1wv1p.png?resize=1&w=360&h=480&quality=medium"
+                        src="https://cdn1.epicgames.com/spt-assets/ac08e5cd066143b9b218b3ffb8efddb7/tails-of-iron-2-whiskers-of-winter-1wv1p.png?resize=1&w=360&h=480&quality=medium"
                         width={200}
                         height={300}
                         className="w-full h-36 sm:h-48 rounded-[7px] object-cover"
